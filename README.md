@@ -1,9 +1,9 @@
-- 👋 Hi, I’m eepy
-- 👀 I’m interested in web development
+- 👋 Hi, I’m arushi
+- 👀 I’m interested in cybersec and webdev
 - 🌱 I’m currently learning html,css,js
-- 📫 How to reach me -dont<3
+- 📫 How to reach me - linkedin (arushisinghb)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: no.
+- ⚡ Fun fact: i play minecraft 
 
 <!---
 arushii7/arushii7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
