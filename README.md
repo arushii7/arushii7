@@ -1,9 +1,9 @@
-- 👋 Hi, I’m arushi
-- 👀 I’m interested in cybersec and webdev
-- 🌱 I’m currently learning html,css,js
-- 📫 How to reach me - linkedin (arushisinghb)
+- 👋 Hi, I’m Arushi
+- 👀 I’m discovering new domains in the world of tech! 
+- 🌱 I’m currently learning HTML, CSS, JS
+- 📫 How to reach me - Linkedin (linkedin.com/in/arushisinghb)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i play minecraft 
+- ⚡ Fun fact: I love to play Minecraft! 
 
 <!---
 arushii7/arushii7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
