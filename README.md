@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS, JS
 - 📫 How to reach me - Linkedin (linkedin.com/in/arushisinghb)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to play Minecraft! 
 
 <!---
 arushii7/arushii7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
