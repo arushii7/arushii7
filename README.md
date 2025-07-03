@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arushi
 - 👀 I’m discovering new domains in the world of tech! 
-- 🌱 I’m currently learning Java
-- 📫 How to reach me - Linkedin (linkedin.com/in/arushisinghb)
+- 🌱 I’m currently learning WebDev:)
+- 📫 How to reach me - Email!
 - 😄 Pronouns: she/her
 
 <!---
