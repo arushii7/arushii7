@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Arushi
-- 👀 I’m discovering new domains in the world of tech! 
-- 🌱 I’m currently learning WebDev:)
-- 📫 How to reach me - Email!
-- 😄 Pronouns: she/her
+hey!  i'm arushi, currently a sophomore at bennett university, greater noida
 
 <!---
 arushii7/arushii7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
